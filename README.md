@@ -1,4 +1,4 @@
-<h1 align="center">Hi, Soner Ozciftci 👍</h1>
+<h1 align="center">Hi, Soner Ozciftci 👍 </h1>
 
 <body align='center'>
 
@@ -28,7 +28,7 @@ I'm a software engineer with a passion for web programming. My goal is to develo
 
 <!-- - 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/DURUL-26)!. -->
 
-- 📫 How to reach me: **alpagut1993@gmail.com**.
+- 📫 How to reach me: **ozciftcisoner@gmail.com**.
 
 <!-- - 💬 Ask me about **HTML and CSS**. -->
 
