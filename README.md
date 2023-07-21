@@ -1,4 +1,4 @@
-<h1 align="center">Hi, Soner Ozciftci 👍 </h1>
+<h1 align="center">Hi, I'm Soner Ozciftci 👍 </h1>
 
 <body align='center'>
 
