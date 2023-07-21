@@ -3,7 +3,7 @@
 <body align='center'>
 
 <p align="center">
-I'm a software engineer with a passion for web programming. My goal is to develop scalable, maintainable and user-friendly web applications that provide a seamless user experience. I am constantly learning and experimenting new technologies and frameworks to find the best solutions to the problems at hand. 
+I am a software developer with a passion for web programmers. My goal is to develop scalable, maintainable and user-friendly web applications that provide a seamless user experience. I am constantly learning and experimenting with new technologies and frameworks to find the best solutions to the problems at hand. 
 </p>
 
 ##
