@@ -1,48 +1,62 @@
-<h1 align="center">Hi There, Burhan here :+1:</h1>
+<h1 align="center">Hi, Soner Ozciftci 👍</h1>
+
 <body align='center'>
+
 <p align="center">
-I'm a software engineer with a passion for web programming. My goal is to develop scalable, maintainable and user-friendly web applications that provide a seamless user experience. I am constantly learning and experimenting new technologies and frameworks to find the best solutions to the problems at hand.
+I'm a software engineer with a passion for web programming. My goal is to develop scalable, maintainable and user-friendly web applications that provide a seamless user experience. I am constantly learning and experimenting new technologies and frameworks to find the best solutions to the problems at hand. 
 </p>
+
 ##
 <br>
-<!--
+<!-- 
 - Web illustrations by Storyset ( https://storyset.com/web ) - -->
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="360px"/>
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520109-e00b8f1e-08c9-4316-9920-ea4e88701a61.svg#gh-light-mode-only" width="360px"/>
-<br>
-   <!--  - :telescope: I’m currently studying on **becoming a full stack developer**. -->
-- :school:I'm currently studying Software Technologies at Clarusway .
-- :reminder_ribbon: I'm currently taking Software Enginnering Development Course at [**Clarusway**](https://clarusway.com/full-stack-developer/)
-<!-- - :seedling: I’m currently learning **HTML-CSS and JS**. -->
-<!-- - :mag: Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/DURUL-26)!. -->
-- :mailbox: How to reach me: **alpagut1993@gmail.com**.
-<!-- - :speech_balloon: Ask me about **HTML and CSS**. -->
-- :handshake: I’m looking for help in learning about **Accessible Websites**.
-- :dancers: I’m looking to collaborate on **developing new open-source projects**.
-<br>
-<br>
-<br>
-## :trophy: Goals
-- :globe_with_meridians: Improve my knowledge of web accessibility standards and incorporate them into my projects.
-- :art: Learn new design techniques and tools to enhance my UI/UX design skills.
-- :checkered_flag: Finishing the Course 'how to become Full/MERN Stack Developer'.
-- :rocket: Gain experience in developing Web site application using.
-- :iphone: Build a simple web applications and softwares.
-  <!-- - :book: Learn the of **HTML-CSS and JS** programming languages -->
-#
-<br>
-storyset.comstoryset.com
-Customize, animate and download our Web illustrations totally free. Vector images editable in ✓ PNG ✓ SVG ✓ HTML ✓ GIF ✓ MP4
-Online IT Bootcamp; Learn Coding, Data Science, AWS, DevOps, Cyber Security &amp; SalesforceOnline IT Bootcamp; Learn Coding, Data Science, AWS, DevOps, Cyber Security & Salesforce
-Full Stack Development Course - Online IT Bootcamp; Learn Coding, Data Science, AWS, DevOps, Cyber Security & Salesforce
-Learn the skills and tools needed to become a successful full-stack developer with Clarusway's online training course. Enroll now and take the first step towards becoming a full-stack developer.
-Time to read
-11 minutes
-https://clarusway.com/full-stack-developer/
 
-Frontend MentorFrontend Mentor
-Frontend Mentor | Ali Durul's profile
-Ali Durul's profile page on Frontend Mentor. View Ali Durul's solutions and comments. (22 kB)
+
+<br>
+
+
+
+   <!--  - 🔭 I’m currently studying on **becoming a full stack developer**. -->
+
+- 🏫I'm currently studying Software Technologies at Clarusway .
+
+- 🎗️ I'm currently taking Software Enginnering Development Course at [**Clarusway**](https://clarusway.com/full-stack-developer/)
+
+<!-- - 🌱 I’m currently learning **HTML-CSS and JS**. -->
+
+<!-- - 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/DURUL-26)!. -->
+
+- 📫 How to reach me: **alpagut1993@gmail.com**.
+
+<!-- - 💬 Ask me about **HTML and CSS**. -->
+
+- 🤝 I’m looking for help in learning about **Accessible Websites**.
+
+- 👯 I’m looking to collaborate on **developing new open-source projects**.
+
+
+<br>
+<br>
+<br>
+
+## 🏆 Goals
+- 🌐 Improve my knowledge of web accessibility standards and incorporate them into my projects.
+ 
+- 🎨 Learn new design techniques and tools to enhance my UI/UX design skills.
+
+- 🏁 Finishing the Course 'how to become Full/MERN Stack Developer'.
+
+- 🚀 Gain experience in developing Web site application using.
+
+- 📱 Build a simple web applications and softwares.
+  <!-- - 📖 Learn the of **HTML-CSS and JS** programming languages -->
+
+
+#
+
+<br>
 
 
 
