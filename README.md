@@ -73,8 +73,6 @@ I'm a software engineer with a passion for web programming. My goal is to develo
 
 
 
-<h1 align="center">Hi 👋, I'm Soner Ozciftci</h1>
-<h3 align="center">A passionate front-end developer from Norway.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soner-ozciftci&label=Profile%20views&color=0e75b6&style=flat" alt="soner-ozciftci" /> </p>
 
