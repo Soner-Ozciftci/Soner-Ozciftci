@@ -20,10 +20,6 @@ I am a software developer with a passion for web programmers. My goal is to deve
 
    <!--  - 🔭 I’m currently studying on **becoming a full stack developer**. -->
 
-- 🏫I'm currently studying Software Technologies at Clarusway .
-
-- 🎗️ I'm currently taking Software Enginnering Development Course at [**Clarusway**](https://clarusway.com/full-stack-developer/)
-
 <!-- - 🌱 I’m currently learning **HTML-CSS and JS**. -->
 
 <!-- - 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/DURUL-26)!. -->
